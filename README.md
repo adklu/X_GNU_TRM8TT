@@ -64,9 +64,6 @@ It is true that there is a stereo master mix output (including panning of knobs 
 Are there digital limiters?
 No, it is recommended to use an analog compressor/limiter.
 
-If I stop the track and move the faders, I can't change the volume anymore...
-If the transport is stopped and the faders are moved it can happen that the midi control of the faders freezes (prototype wip)... so better to move the faders only when the transport is running... button knob 11 can reset the faders... when changing the record mode from playback to recording or vice versa, the transport will run to avoid fader crashes... this is the preview mode of the tape, in order to start the recoding it is recommended to RTZ (which will also activate the timer).
-
 If I use a2j X_GNU_TRM8TT is crashing...
 X_GNU_TRM8TT is an Operating System Prototype wip and should only use the mentioned software for a standalone recorder system.
 
