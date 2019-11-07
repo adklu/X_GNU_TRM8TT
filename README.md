@@ -19,7 +19,7 @@ Behringer XTouchCompact
 Audio Interface for Linux
 Qt
 
-- based on Linux and Alsa, Jack and Ecasound? 
+- based on Linux and Alsa, Jack and Ecasound
 - no screen, control via midi faders, knobs, buttons and LEDs... 
 - prototype dev used Behringer XTouchCompact, even 8 peak meters and a timer, which shows the position of the tape head (even if the Behringer XTouchCompact does not have a LCD screen, there are 2 LED rings as pointer for minutes and 5 sec steps, the maximum time is 14 minutes, because the ring has only 13 LEDs...
 
