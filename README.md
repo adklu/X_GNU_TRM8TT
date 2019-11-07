@@ -91,6 +91,8 @@ home/.../TRM8TT_Tapes/DummyTape8.wav
 //modifications by A.D.Klumpp published under the GNU General Public License 2 or later
 //see mod comments inside of thread1.cpp
 
+for unmodified files please refer to the copyright note inside of the file
+
 //list jack ports: jack_lsp -c
 
 //delete a track
