@@ -23,11 +23,7 @@ Qt
 - no screen, control via midi faders, knobs, buttons and LEDs... 
 - prototype dev used Behringer XTouchCompact, even 8 peak meters and a timer, which shows the position of the tape head (even if the Behringer XTouchCompact does not have a LCD screen, there are 2 LED rings as pointer for minutes and 5 sec steps, the maximum time is 14 minutes, because the ring has only 13 LEDs...
 
-So the peak meter is not on the Computer screen, but on the Behringer XTouchCompact, even if the Behringer XTouchCompact does not have a peak meter?
-Yes, every track on the Behringer XTouchCompact has three buttons with LEDs, the LEDs are now the peak meter... every track has a 3 elements peak meter ("there is sound", "the volumne is ok", "it is almost clipping, turn it down"). 
-
-Which effects does it include?
-No effects, it is suggested to use 24bit/94KHz to not include digital artifacts, when capturing analog effects like tape recorder's tape compression and tape hiss/flutter or analog compressors/EQs/tape delay/analog reverb. 
+... every track has a 3 elements peak meter ("there is sound", "the volumne is ok", "it is almost clipping, turn it down"). 
 
 Is X_GNU_TRM8TT only working with Behringer XTouchCompact?
 Yes, but it is possible to change the code so that it would work with similar Midi controllers or with a hardware prototype, for example combined with a real recording tape track, which is rendered in real time to the digital track... 
