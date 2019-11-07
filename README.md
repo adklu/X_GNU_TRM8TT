@@ -3,6 +3,8 @@ Standalone Multi-track Recorder Operating System Prototype
 
 What do I need for the prototype?
 Linux with ALSA and Jack including dev libs
+
+
 //required libs
 //jack dev libs
 //libjack-dev
@@ -10,6 +12,8 @@ Linux with ALSA and Jack including dev libs
 //libjack-jackd2-dev
 //alsa dev libs
 //libasound2-dev
+
+
 Ecasound 
 Behringer XTouchCompact
 Audio Interface for Linux
