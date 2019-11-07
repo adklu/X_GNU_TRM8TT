@@ -1,3 +1,12 @@
+//alsa midi input/output system contains modifications of
+//aseqdump.c and amidi.c (original files by Clemens Ladisch published under the GNU General Public License 2 or later, see originalfiles folder)
+//modifications by A.D.Klumpp published under the GNU General Public License 2 or later
+//see comments
+
+
+
+
+
 #include "thread2.h"
 #include "thread1.h"
 
