@@ -39,7 +39,7 @@ Qt
 
 Is X_GNU_TRM8TT only working with Behringer XTouchCompact?
 
-Yes, but it is possible to change the code so that it would work with similar Midi controllers or with a hardware prototype, for example combined with a real recording tape track, which is rendered in real time to the digital track... 
+Yes, but it is possible to change the code so that it would work with similar Midi controllers or with a hardware prototype
 
 playback mode: "Main button" and "tape slot button" (knob button 1-8)
 
