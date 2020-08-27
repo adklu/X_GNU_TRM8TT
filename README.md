@@ -47,7 +47,7 @@ How do I record?
 Tape slot button (1-8) and Rec enable button  1 (one track recording) or 2 (for recording with 2 tracks, e.g. stereo). The recording tracks are always the next free 1 or 2 tracks... if all tracks are already used knob ring 10 will blink and X_GNU_TRM8TT will change to playback mode... (change of the code would allow to record up to 8 tracks at the same time, see GUI version).
 
 How do I delete a track?
-Knob buttons 9 + 10 and top row button from top (of peak meter) to select the track...
+Knob buttons 9 + 10 and top row buttons (of peak meter) to select the track...
 This will not delete the track, but rename it, so that the track is invisible for X_GNU_TRM8TT, but still visible for a computer.
 
 Which function has the 'LOOP' button?
