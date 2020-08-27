@@ -105,7 +105,7 @@ for unmodified files please refer to the copyright note inside of the file
 //button of knob 11 can reset all faders, when fader controll crashed/frozen
 
 //known bugs
-//fader cops can crash, if used when transport is stopped (button of knob 11 can reset all faders)
+//fader cops can crash, if used when transport is stopped (button of knob 11 can reset all faders) - fixed in the GUI version
 
 
 
