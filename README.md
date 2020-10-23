@@ -1,9 +1,13 @@
-# X_GNU_TRM8TT
+# X_GNU_TRM8TT Standalone Multi-track Recorder Operating System Prototype
 
 v0157 
 
+Replaced by GUI_TRM8TT:
 
-Standalone Multi-track Recorder Operating System Prototype
+https://github.com/AndreasDanielKlumpp/GUI_TRM8TT
+
+
+
 
 What do I need for the prototype?
 
