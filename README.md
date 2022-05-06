@@ -1,4 +1,4 @@
-# X_GNU_TRM8TT Multi-track Recorder OS
+# X_GNU_TRM8TT Hardware Multi-track Recorder OS Prototype
 
 v0157 
 
